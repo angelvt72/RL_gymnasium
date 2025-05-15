@@ -1,0 +1,8 @@
+{
+  "model": "DoubleDQN_lr0.001_bs64",
+  "return_mean": -0.0286,
+  "victory_rate": 0.4418,
+  "draw_rate": 0.0878,
+  "loss_rate": 0.4704,
+  "episodes_test": 10000
+}
